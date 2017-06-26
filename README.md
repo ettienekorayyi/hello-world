@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-hi, i am etiene
+hi, i am etienne
